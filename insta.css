@@ -1,0 +1,16 @@
+body{
+    display: inline;
+    background-color: black;
+}
+.card{
+    margin: auto;
+    background-color: black;
+     border-color: antiquewhite;
+     padding:2%;
+    
+    
+}
+
+.card.p{
+    background-color: black;
+}
